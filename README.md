@@ -1,3 +1,3 @@
 # PersonalFinanceSystem
 
-2021 Ağustos Ayında İsyanbul Bilgi İşlem Daire Baskanlığında yaptığım Java-Spring Projem
+2021 Ağustos Ayında İstanbul Bilgi İşlem Daire Baskanlığında yaptığım Java-Spring Projem
